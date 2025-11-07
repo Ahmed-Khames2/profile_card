@@ -21,11 +21,11 @@ class ProfilePage extends StatelessWidget {
           child: Column(
             children: [
               // 🔹 الصورة الشخصية
-              CircleAvatar(
-                radius: 80,
-                backgroundImage: const AssetImage('assets/profile.jpg'),
-                backgroundColor: Colors.grey.shade800,
-              ),
+              // CircleAvatar(
+              //   radius: 80,
+              //   backgroundImage: const AssetImage('assets/profile.jpg'),
+              //   backgroundColor: Colors.grey.shade800,
+              // ),
               const SizedBox(height: 25),
 
               // 🔹 الاسم و الوظيفة
